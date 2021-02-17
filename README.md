@@ -23,14 +23,14 @@ and
   
 As part of the Data Science & Business Analytics:
 
-* Prediction using Supervised ML (Level - Beginner)
-* Prediction using Unsupervised ML (Level - Beginner)
-* Exploratory Data Analysis - Retail (Level - Beginner)
-* Exploratory Data Analysis - Terrorism (Level - Intermediate)
-* Exploratory Data Analysis - Sports (Level - Advanced)
-* Prediction using Decision Tree Algorithm (Level - Intermediate)
-* Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-* Timeline Analysis : Covid-19 (Level - Advanced)
+* 1️⃣ Prediction using Supervised ML (Level - Beginner) ☑️
+* 2️⃣ Prediction using Unsupervised ML (Level - Beginner) ☑️
+* 3️⃣ Exploratory Data Analysis - Retail (Level - Beginner) ☑️
+* 4️⃣ Exploratory Data Analysis - Terrorism (Level - Intermediate) ☑️
+* 5️⃣ Exploratory Data Analysis - Sports (Level - Advanced) ☑️
+* 6️⃣ Prediction using Decision Tree Algorithm (Level - Intermediate) 🔜
+* 7️⃣ Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced) 🔜
+* 8️⃣ Timeline Analysis : Covid-19 (Level - Advanced) 🔜
 
 
 
